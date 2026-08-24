@@ -1,0 +1,13 @@
+{
+  "id": "yosukeinada/house-prices-outlier-decision-jp-en",
+  "title": "House Prices: outlier decision & submission (JP/EN)",
+  "code_file": "../../house_prices_outlier_decision_bilingual.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": "true",
+  "enable_gpu": "false",
+  "enable_internet": "false",
+  "dataset_sources": [],
+  "competition_sources": ["house-prices-advanced-regression-techniques"],
+  "kernel_sources": []
+}
